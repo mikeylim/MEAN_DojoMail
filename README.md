@@ -1,3 +1,5 @@
+![dojomail](https://user-images.githubusercontent.com/13756917/35018776-16f26868-fad8-11e7-8906-7b2c134758bf.png)
+
 # DojoMail
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
